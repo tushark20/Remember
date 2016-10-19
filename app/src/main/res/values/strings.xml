@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Remember</string>
+    <string name="date">Date</string>
+    <string name="description">Description...</string>
+    <string name="remind">set Reminder</string>
+    <string name="title">Title</string>
+    <string name="enter_location">enter location</string>
+
+     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+      AIzaSyA1ARTZtIjFjKmOeufUQpTRDXcpkS7ouTM <!--AIzaSyCLcm6KIOZfjmcOI1N_n2HjoHRogUzog7I-->
+    </string>
+    <string name="title_activity_wai_spin">WaiSpin</string>
+</resources>

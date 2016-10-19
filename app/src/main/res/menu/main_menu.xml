@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.root.anytest.HomeActivity">
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <!--android:actionLayout="@layout/switchh"-->
+    <item
+        android:id="@+id/switchId"
+        android:title=""
+        app:showAsAction="always"
+        app:actionViewClass="android.support.v7.widget.SwitchCompat"
+       />
+
+
+</menu>
